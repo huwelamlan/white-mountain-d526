@@ -10,6 +10,7 @@
   "upload_source_maps": true,
   "assets": {
     "binding": "ASSETS",
+    "directory": "dist",  // ✅ Add this line to specify the directory
     "not_found_handling": "single-page-application"
   }
 }
